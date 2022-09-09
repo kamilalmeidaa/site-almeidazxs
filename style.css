@@ -16,14 +16,16 @@
         }
         .itens{
             font-weight: bold;
+            color: black;
             text-align: center;
         }
         .espaço{
             font-weight: bold;
-            color: rgb(0, 0, 0);
+            color: black;
             text-align: center;
         }
         .localização{
             font-weight: bold;
+            color:black ;
             text-align: center;
         }
