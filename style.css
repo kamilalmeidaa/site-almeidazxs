@@ -19,9 +19,11 @@
             text-align: center;
         }
         .espaço{
+            font-weight: bold;
             color: rgb(0, 0, 0);
             text-align: center;
         }
         .localização{
+            font-weight: bold;
             text-align: center;
         }
