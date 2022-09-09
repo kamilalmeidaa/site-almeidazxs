@@ -1,11 +1,11 @@
         h1 {
             text-align: center;
-            color: lightpink;
-            background: hotpink;
+            color:black;
+            background: rgb(39, 36, 37);
         }
         p {
             text-align: center;
-            color: deeppink;
+            color: rgb(83, 83, 83);
         }
         img {
             display: block;
@@ -16,9 +16,11 @@
         }
         .itens{
             font-weight: bold;
+            text-align: center;
         }
         .espaço{
-            color: hotpink;
+            color: rgb(0, 0, 0);
+            text-align: center;
         }
         .localização{
             text-align: center;
